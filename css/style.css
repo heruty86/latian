@@ -263,7 +263,7 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 1;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
@@ -280,7 +280,7 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 1;
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
